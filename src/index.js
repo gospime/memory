@@ -1,4 +1,4 @@
-import util from 'util';
+const util = require('util');
 
 const convertToMBytes = function (_number) {
   _number = parseInt(_number);
