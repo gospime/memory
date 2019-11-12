@@ -1,12 +1,12 @@
 const util = require('util');
 
-const convertToMBytes = function (_number) {
+const convertToMBytes = _number => {
   _number = parseInt(_number);
   if (!_number || _number <= 0) return 0;
   return parseInt(_number / 1024 / 1024);
 };
 
-module.exports = function () {
+module.exports = () => {
   const memory = process.memoryUsage();
   return util.format(
     '[pid=%d, memory rss=%dMB, total=%dMb, used=%dMb]',
