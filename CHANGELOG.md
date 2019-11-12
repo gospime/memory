@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/gospime/memory/compare/v1.1.2...v1.1.3) (2019-11-12)
+
+
+### Bug Fixes
+
+* minors ([f8e9487](https://github.com/gospime/memory/commit/f8e9487658ef2a83e664264267f1503569be8d01))
+
 ### [1.1.2](https://github.com/gospime/memory/compare/v1.1.1...v1.1.2) (2019-11-12)
 
 ### [1.1.1](https://github.com/gospime/memory/compare/v1.1.0...v1.1.1) (2019-11-11)
